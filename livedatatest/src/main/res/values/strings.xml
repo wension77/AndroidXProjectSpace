@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveDataTest</string>
+    <string name="good">good</string>
+    <string name="down">down</string>
+</resources>
