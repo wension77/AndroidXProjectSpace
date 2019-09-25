@@ -1,3 +1,3 @@
-include ':app', ':viewmodeltest', ':livedatatest', ':databindingtest', ':score', ':viewmodelrestore'
+include ':app', ':viewmodeltest', ':livedatatest', ':databindingtest', ':score', ':viewmodelrestore', ':navdemo2', ':navdemo3'
 rootProject.name='AndroidXProject'
 
