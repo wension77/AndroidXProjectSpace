@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.os.SystemClock;
 import android.widget.Chronometer;
 
+import com.example.lifecyclestest.R;
+
  public class MainActivity extends AppCompatActivity {
 
      private MyChronometer chronometer;
