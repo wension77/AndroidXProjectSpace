@@ -11,5 +11,5 @@ include ':app',
 //        ':roombasic2',
 //        ':roombasic3',
 
-rootProject.name='AndroidXProject'
+        rootProject.name = 'AndroidXProject', ':RoomBasic2', ':RoomBasic3', ':RoomBasic4', ':RoomBasic5'
 
