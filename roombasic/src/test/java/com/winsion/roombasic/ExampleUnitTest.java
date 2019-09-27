@@ -1,4 +1,4 @@
-package com.example.roombasic3;
+package com.winsion.roombasic;
 
 import org.junit.Test;
 
